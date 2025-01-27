@@ -4,9 +4,9 @@ export const Server = {
     endpoint: 'https://cloud.appwrite.io/v1',
     project: '67970a1c003ba2ff0245',
     database: '67971e35003ddca8a092',
-    mapCol: '647b2cd645d508416a8d',
-    user: '646d7bce583874b898e8',
-    picBucket: '646d7c668e9be2b0c119',
+    mapCol: '67971e35003ddca8a092',
+    user: '679729d10022b25f021f',
+    picBucket: '679728d1002c6ec79494',
     defaultPic: '6486851da5b8e11efc32',
     announcement: {
         list: '647b2d291acb0a1ed207',
