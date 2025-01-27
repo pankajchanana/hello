@@ -2,8 +2,8 @@
 // workaround for env not working, hard-coding the id here for now
 export const Server = {
     endpoint: 'https://cloud.appwrite.io/v1',
-    project: '646ad7e4167a46151411',
-    database: '646d77ba120f10283ceb',
+    project: '67970a1c003ba2ff0245',
+    database: '67971e35003ddca8a092',
     mapCol: '647b2cd645d508416a8d',
     user: '646d7bce583874b898e8',
     picBucket: '646d7c668e9be2b0c119',
